@@ -1,0 +1,51 @@
+body {
+    background-color: blanchedalmond;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size:50px;
+}
+
+
+#recipes {
+    margin-top:100px;
+    list-style:none;
+    margin-left:20px; 
+  }
+#recipes li {
+    margin-bottom:50px;
+}
+
+
+a {
+  text-decoration-color:aqua;
+  color: black;
+  font-size:40px;
+  
+}
+
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+#home {
+    display:block;
+    text-align:center;
+}
+
+.menu_name{
+    text-align:center;
+    text-decoration:underline;
+    text-decoration-color:aqua
+}
+
+
+.credit{
+    text-align:center;
+    margin-top:40px;
+    margin-bottom:40px;
+}
